@@ -30,7 +30,22 @@ div {
     padding: 8px;
 }
 
+#verifica { 
+    color: red;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.379);
+    background-color: green;
+    
+}
+main {
+    background-color: rgb(243, 247, 3);
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.459);
+}
+
 footer:hover {
     background-color: green;
     color: yellow;
+}
+
+a {
+    text-decoration-line: inherit;
 }
